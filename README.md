@@ -1,3 +1,4 @@
 # GI Tract Segmentation
 
-![Video](./media/readme_video.mov)
+<video style="width:70%" controls src="./media/readme_video.mov"></video>
+
