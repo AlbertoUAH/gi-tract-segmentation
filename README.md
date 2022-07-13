@@ -28,7 +28,7 @@ __Non empty masks__
 
 | \# Model                                | Dice score large bowel | Dice score small bowel | Dice score stomach |
 |----------------------------------------|------------|------------|------------|
-| \# Unet | 0.81      | <span style="color:blue"> 0.79 </span>     | 0.90      |
+| \# __Unet__ | __0.81__      | __0.79__     | __0.90__      |
 | \# FPN | 0.73      | 0.73      | 0.89      |
 
 
@@ -36,7 +36,7 @@ __Empty masks__
 
 | \# Model                                | Dice score large bowel | Dice score small bowel | Dice score stomach |
 |----------------------------------------|------------|------------|------------|
-| \# Unet | 0.99      | 0.99      | 0.99      |
+| \# __Unet__ | __0.99__      | __0.99__      | __0.99__      |
 | \# FPN | 0.95      | 0.95      | 0.99      |
 
 <p align="center">
