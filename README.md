@@ -11,6 +11,14 @@ __Author__: Fernández Hernández, Alberto
 ## Preview
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif"/>
 
+## Dataset source
+<p align="center">
+<img src="https://brand.wisc.edu/content/uploads/2016/11/uw-logo-color-flush-300x180.png" class="center"/>
+</p>
+![https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation](UW-Madison GI Tract Image Segmentation - Kaggle dataset)
+
+
+
 ## Tools
 
 * __Storage__: Google Cloud Storage
