@@ -3,7 +3,7 @@ __Author__: Fernández Hernández, Alberto
 
 ## Summary 📖
 
-The main purpose is create a model to __automatically segment the stomach and intestines (small and large) on MRI scans__. The MRI scans are from actual cancer patients who had 1-5 MRI scans on separate days during their radiation treatment.
+The main purpose is create a model to __automatically segment the stomach and intestines (small and large) on MRI scans__, in order to outline the position of the stomach and intestines to adjust the direction of the x-ray beams to increase the dose delivery to the tumor and avoid main organs. A method to segment the stomach and intestines would make treatments much faster and would allow more patients to get more effective treatment. The MRI scans are from actual cancer patients who had 1-5 MRI scans on separate days during their radiation treatment.
 
 ## Architecture diagram
 
