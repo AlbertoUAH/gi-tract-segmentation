@@ -1,5 +1,6 @@
 # GI Tract Segmentation
 __Author__: Fernández Hernández, Alberto
+
 __Date__: 2022 - 07 - 13
 
 ## Summary 📖
