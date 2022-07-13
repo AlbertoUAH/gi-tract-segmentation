@@ -19,6 +19,26 @@ Two models are proposed:
 
 * __UNet VS Feature Pyramid Network (FPN)__
 
+| \# Model                                | Number of parameters | Backbone |
+|----------------------------------------|------------|------------|
+| \# Unet | 8.7 M      | Efficientnet-B1 |
+| \# FPN | 8.2 M      | Efficientnet-B1 |
+
+__Non empty masks__
+
+| \# Model                                | Dice score large bowel | Dice score small bowel | Dice score stomach |
+|----------------------------------------|------------|------------|------------|
+| \# Unet | 0.81      | 0.79      | 0.90      |
+| \# FPN | 0.73      | 0.73      | 0.89      |
+
+
+__Empty masks__
+
+| \# Model                                | Dice score large bowel | Dice score small bowel | Dice score stomach |
+|----------------------------------------|------------|------------|------------|
+| \# Unet | 0.99      | 0.99      | 0.99      |
+| \# FPN | 0.95      | 0.95      | 0.99      |
+
 <p align="center">
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/deep_learning_architecture.jpg"  width="510" height="190"/>
 </p>
