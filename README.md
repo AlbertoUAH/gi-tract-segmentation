@@ -72,3 +72,11 @@ __Empty masks__
   * OpenCV
   * Numpy
   * Google-cloud
+  
+## References
+
+[UW-Madison GI Tract Image Segmentation - Kaggle dataset](https://www.kaggle.com/code/albertouah/uw-madison-gi-tract-image-segmentation-3-unet/edit)
+
+[Segmentation models PyTorch libraries](https://github.com/qubvel/segmentation_models.pytorch)
+
+[Weight and Biases](https://wandb.ai/site)
