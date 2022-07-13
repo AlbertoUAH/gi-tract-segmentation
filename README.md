@@ -13,6 +13,9 @@ __Author__: Fernández Hernández, Alberto
 * __Code__: Python 3.7 + Google Cloud functions
 * __Libraries__:
   * PyTorch
+  * Albumentations
   * Image Segmentation Models (smp) library
   * Pydicom
   * OpenCV
+  * Numpy
+  * Google-cloud
