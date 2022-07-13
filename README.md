@@ -11,7 +11,12 @@ The main purpose is create a model to __automatically segment the stomach and in
 <p align="center">
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/diagram.png" class="center" width="600" height="360"/>
 </p>
- 
+
+## Deep learning model
+
+Two models are proposed:
+
+* __UNet VS Feature Pyramid Network (FPN)__
  
 ## Preview
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif"/>
