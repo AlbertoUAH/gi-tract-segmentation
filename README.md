@@ -13,6 +13,7 @@ __Author__: Fernández Hernández, Alberto
 
 ## Dataset source
 <img src="https://brand.wisc.edu/content/uploads/2016/11/uw-crest-color-300x180.png"/>
+
 [UW-Madison GI Tract Image Segmentation - Kaggle dataset](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation)
 
 
