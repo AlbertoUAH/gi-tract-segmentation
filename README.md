@@ -20,7 +20,7 @@ Two models are proposed:
 * __UNet VS Feature Pyramid Network (FPN)__
 
 <p align="center">
-<img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/deep_learning_architecture.jpg"  width="520" height="190"/>
+<img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/deep_learning_architecture.jpg"  width="510" height="190"/>
 </p>
  
 ## Preview
