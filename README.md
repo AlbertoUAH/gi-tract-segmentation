@@ -19,6 +19,26 @@ Two models are proposed:
 
 * __UNet VS Feature Pyramid Network (FPN)__
 
+<style>
+    .heatMap {
+        width: 70%;
+        text-align: center;
+    }
+    .heatMap th {
+        background: grey;
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .heatMap tr:nth-child(2) { background: green; }
+</style>
+
+<div class="heatMap">
+| \# Model                                | Dice score large bowel | Dice score small bowel | Dice score stomach |
+|----------------------------------------|------------|------------|------------|
+| \# Unet | 0.81      | 0.79      | 0.90      |
+| \# FPN | 0.73      | 0.73      | 0.89      |
+</div>
+
 | \# Model                                | Number of parameters | Backbone |
 |----------------------------------------|------------|------------|
 | \# Unet | 8.7 M      | Efficientnet-B1 |
