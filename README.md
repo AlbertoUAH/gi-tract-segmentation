@@ -80,4 +80,9 @@ __Empty masks__
 
 [Segmentation models PyTorch libraries](https://github.com/qubvel/segmentation_models.pytorch)
 
+[A prior knowledge guided deep learning based semi-automatic segmentation for complex anatomy on MRI](https://www.redjournal.org/article/S0360-3016%2822%2900543-0/fulltext)
+
+[A2-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images
+](https://arxiv.org/abs/2102.07997)
+
 [Weight and Biases](https://wandb.ai/site)
