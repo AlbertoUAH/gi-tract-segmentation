@@ -1,6 +1,10 @@
 # GI Tract Segmentation
 __Author__: Fernández Hernández, Alberto
 
+## Summary 📖
+
+The main purpose is create a model to __automatically segment the stomach and intestines (small and large) on MRI scans__. The MRI scans are from actual cancer patients who had 1-5 MRI scans on separate days during their radiation treatment.
+
 ## Architecture diagram
 
 <p align="center">
@@ -33,6 +37,7 @@ __Author__: Fernández Hernández, Alberto
   * Matplotlib
   * Skimage
   * tqdm
+  * wandb
   * OpenCV
   * Numpy
   * Google-cloud
