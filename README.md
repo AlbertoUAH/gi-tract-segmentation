@@ -2,8 +2,12 @@
 __Author__: Fernández Hernández, Alberto
 
 ## Architecture diagram
-<img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/diagram.png" class="center" width="600" height="360"/>
 
+<p align="center">
+<img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/diagram.png" class="center" width="600" height="360"/>
+</p>
+ 
+ 
 ## Preview
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif"/>
 
