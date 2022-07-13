@@ -29,6 +29,10 @@ __Author__: Fernández Hernández, Alberto
   * Albumentations
   * Image Segmentation Models (smp) library
   * Pydicom
+  * Sci-kit Learn
+  * Matplotlib
+  * Skimage
+  * tqdm
   * OpenCV
   * Numpy
   * Google-cloud
