@@ -6,4 +6,4 @@ __Author__: Fernández Hernández, Alberto
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif"/>
 
 ## Architecture diagram
-<img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/diagram.png" width="500" height="600"/>
+<img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/diagram.png" width="700" height="700"/>
