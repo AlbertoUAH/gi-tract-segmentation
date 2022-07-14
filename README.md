@@ -44,6 +44,12 @@ __Empty masks__
 <p align="center">
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/deep_learning_architecture.jpg"  width="510" height="190"/>
 </p>
+
+## Model monitoring
+
+<p align="center">
+<img src="https://app.wandb.ai/logo.svg"/>
+</p>
  
 ## Preview
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif"/>
