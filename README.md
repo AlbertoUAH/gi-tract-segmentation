@@ -19,10 +19,12 @@ Two models are proposed:
 
 * __UNet VS Feature Pyramid Network (FPN)__
 
-| \# Model                                | Number of parameters | Backbone | Inference Time (GPU) - seconds |
+| \# Model                                | Number of parameters | Backbone | Inference Time (GPU) - minutes \* |
 |----------------------------------------|------------|------------|------------|
-| \# Unet | 8.7 M      | Efficientnet-B1 | 0.0 |
-| \# FPN | 8.2 M      | Efficientnet-B1 | 0.0 |
+| \# Unet | 8.7 M      | Efficientnet-B1 | 2:50 min. |
+| \# FPN | 8.2 M      | Efficientnet-B1 | 3:06 min. |
+
+\* 3759 slices are "inferred", with batch size: 1
 
 __Non empty masks__
 
