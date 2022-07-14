@@ -19,10 +19,27 @@ Two models are proposed:
 
 * __UNet VS Feature Pyramid Network (FPN)__
 
-| \# Model                                | Number of parameters | Backbone | Inference Time (GPU) - seconds |
-|----------------------------------------|------------|------------|------------|
-| \# Unet | 8.7 M      | Efficientnet-B1 | 0.0 |
-| \# FPN | 8.2 M      | Efficientnet-B1 | 0.0 |
+<style>
+    .heatMap {
+        width: 70%;
+        text-align: center;
+    }
+    .heatMap th {
+        background: grey;
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .heatMap tr:nth-child(1) { background: red; }
+    .heatMap tr:nth-child(2) { background: orange; }
+    .heatMap tr:nth-child(3) { background: green; }
+</style>
+
+<div class="heatMap">
+ | \# Model                                | Number of parameters | Backbone | Inference Time (GPU) - seconds |
+ |----------------------------------------|------------|------------|------------|
+ | \# Unet | 8.7 M      | Efficientnet-B1 | 0.0 |
+ | \# FPN | 8.2 M      | Efficientnet-B1 | 0.0 |
+</div>
 
 __Non empty masks__
 
