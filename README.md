@@ -46,9 +46,8 @@ __Empty masks__
 </p>
 
 ## Model monitoring
-
 <p align="center">
-<img src="https://app.wandb.ai/logo.svg"/>
+<img src="https://app.wandb.ai/logo.svg" width="150" height="150"/>
 </p>
  
 ## Preview
