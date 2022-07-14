@@ -34,10 +34,10 @@ Two models are proposed:
 </style>
 
 <div class="heatMap">
- | \# Model                                | Number of parameters | Backbone | Inference Time (GPU) - seconds |
- |----------------------------------------|------------|------------|------------|
- | \# Unet | 8.7 M      | Efficientnet-B1 | 0.0 |
- | \# FPN | 8.2 M      | Efficientnet-B1 | 0.0 |
+    | \# Model                                | Number of parameters | Backbone | Inference Time (GPU) - seconds |
+     |----------------------------------------|------------|------------|------------|
+     | \# Unet | 8.7 M      | Efficientnet-B1 | 0.0 |
+     | \# FPN | 8.2 M      | Efficientnet-B1 | 0.0 |
 </div>
 
 __Non empty masks__
