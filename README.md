@@ -24,7 +24,7 @@ Two models are proposed:
 | \# Unet | 8.7 M      | Efficientnet-B1 | 2:50 min. |
 | \# FPN | 8.2 M      | Efficientnet-B1 | 3:06 min. |
 
-\* 3759 slices are "inferred", with batch size: 1
+\* 3759 non-empty-masks images are "inferred", with batch size: 1
 
 __Non empty masks__
 
