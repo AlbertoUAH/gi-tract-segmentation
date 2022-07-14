@@ -46,9 +46,7 @@ __Empty masks__
 </p>
 
 ## Model monitoring
-<p align="center">
-<img src="https://app.wandb.ai/logo.svg" width="150" height="150"/>
-</p>
+<img src="https://app.wandb.ai/logo.svg" width="50" height="50"/>
  
 ## Preview
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif"/>
