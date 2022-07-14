@@ -45,8 +45,10 @@ __Empty masks__
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/deep_learning_architecture.jpg"  width="510" height="190"/>
 </p>
 
-## Model monitoring
+## Model monitoring: Weight and biases
 <img src="https://app.wandb.ai/logo.svg" width="50" height="50"/>
+
+[Click here to check models monitoring](https://wandb.ai/albertofernandez/uw-maddison-gi-tract?workspace=user-albertofernandez)
  
 ## Preview
 <img src="https://github.com/AlbertoUAH/gi-tract-segmentation/blob/main/media/readme-video.gif"/>
